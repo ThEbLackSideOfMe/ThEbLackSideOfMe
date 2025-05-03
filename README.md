@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThEbLackSideOfMe
 - 👀 I’m interested in playing football and learning coding language
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me _ paramz1010@gmail.com
 
